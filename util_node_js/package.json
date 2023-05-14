@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "gulp-cli": "^2.0.1",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.7.1"
   }
 }
